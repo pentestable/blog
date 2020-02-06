@@ -1,2 +1,2 @@
 ## Welcome to Pentestable Blog
-For details see [this](https://www.pentestable.com) or [this](https://status.pentestable.com)
+For details see [this](https://scalechamp.com) or [this](https://scalablespace.net)
